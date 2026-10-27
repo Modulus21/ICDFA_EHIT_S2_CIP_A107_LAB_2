@@ -33,9 +33,8 @@
 15. [Limitations and Scope](#15-limitations-and-scope)
 16. [Conclusion](#16-conclusion)
 17. [Repository Structure](#17-repository-structure)
-18. [Responsible AI Use Declaration](#18-responsible-ai-use-declaration)
-19. [Disclaimer](#19-disclaimer)
-20. [References and Acknowledgements](#20-references-and-acknowledgements)
+18. [Disclaimer](#19-disclaimer)
+19. [References and Acknowledgements](#20-references-and-acknowledgements)
 
 ---
 
